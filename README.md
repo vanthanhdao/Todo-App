@@ -1,6 +1,7 @@
 # Todo-App
 
-![image](https://github.com/user-attachments/assets/9f6195c9-9859-4188-9d7c-fd8f3c96f79a)
+![image](https://github.com/user-attachments/assets/d94f5cc1-e723-4284-9f8e-f1a477cda42a)
+
 
 
 TODO APP (REDUX + UI/UX)
